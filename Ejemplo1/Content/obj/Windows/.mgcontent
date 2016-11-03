@@ -4,6 +4,6 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/users/jaros/onedrive/documentos/visual studio 2015/Projects/Ejemplo1/Ejemplo1/Content/sprite1.png</File>
+    <File>C:/Users/jaros/OneDrive/documentos/visual studio 2015/Projects/Ejemplo1/Ejemplo1/Content/sprite1.png</File>
   </SourceFiles>
 </SourceFileCollection>
