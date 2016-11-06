@@ -23,3 +23,4 @@ c:\users\jaros\onedrive\documentos\visual studio 2015\Projects\Ejemplo1\Ejemplo1
 c:\users\jaros\onedrive\documentos\visual studio 2015\Projects\Ejemplo1\Ejemplo1\obj\x86\Debug\Ejemplo1.exe
 c:\users\jaros\onedrive\documentos\visual studio 2015\Projects\Ejemplo1\Ejemplo1\obj\x86\Debug\Ejemplo1.pdb
 c:\users\jaros\onedrive\documentos\visual studio 2015\Projects\Ejemplo1\Ejemplo1\bin\Windows\x86\Debug\Content\sprite1.xnb
+C:\Users\jaros\OneDrive\documentos\visual studio 2015\Projects\Ejemplo1\Ejemplo1\obj\x86\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
